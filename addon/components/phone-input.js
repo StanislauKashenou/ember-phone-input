@@ -4,7 +4,7 @@ import { inject as service } from '@ember/service';
 import { isPresent } from '@ember/utils';
 
 /**
-  A phone-input component. Usage:
+  A phone-input component; Usage:
   ```hbs
     {{phone-input
     allowDropdown=false
